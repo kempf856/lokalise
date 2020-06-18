@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="main.cool"></string>
+  <plurals name="app.users.active">
+    <item quantity="one"></item>
+    <item quantity="other"></item>
+  </plurals>
+  <string name="main.country">Land auswählen</string>
+  <string name="index.welcome"><![CDATA[Willkommen bei <strong> Lokalise </strong> ! 
+ Klicken Sie auf eine beliebige <i> Empty </i> Übersetzung, um die maschinelle Übersetzung anzuzeigen.]]></string>
+  <string name="first.label">Erstes echtes Testetikett</string>
+  <string name="langfile.first"></string>
+  <string name="langfile.web"></string>
+</resources>
