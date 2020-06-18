@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="main.cool">Ez a karakterlánc az iOS-hez tartozik, ám más platformokat egyetlen kattintással is összekapcsolhat!</string>
+  <plurals name="app.users.active">
+    <item quantity="one">Csak egy felhasználó van online</item>
+    <item quantity="other">%d felhasználó van online</item>
+  </plurals>
+  <string name="main.country">Válassz országot</string>
+  <string name="index.welcome"><![CDATA[Üdvözöljük a <strong> Lokalise </strong> webhelyen! 
+Próbáljon rákattintani bármelyik <i> Empty </i> fordításra a gépi fordítás megjelenítéséhez.]]></string>
+  <string name="first.label">Első valódi teszt címke</string>
+  <string name="langfile.first">nyelvfájl első</string>
+  <string name="langfile.web">nyelvfájl weben és jó hosszan</string>
+</resources>
