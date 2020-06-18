@@ -17,5 +17,6 @@
     "test.file2": "first from file",
     "langfile.first": "",
     "langfile.second": "",
-    "langfile.web": "language file on the web and good length"
+    "langfile.web": "language file on the web and good length",
+    "langfile.new": "brand new label"
 }
