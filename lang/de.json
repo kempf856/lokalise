@@ -1,0 +1,21 @@
+{
+    "appstore.app.description": "",
+    "index.untranslated_yet": "",
+    "index.placeholder": "",
+    "appstore.app.title": "Lokalise",
+    "index.blabla": "",
+    "main.cool": "",
+    "app.login.pass": "Passwort",
+    "app.users.active": {
+        "one": "",
+        "other": ""
+    },
+    "main.country": "Land auswählen",
+    "index.welcome": "Willkommen bei <strong> Lokalise <\/strong> ! \n Klicken Sie auf eine beliebige <i> Empty <\/i> Übersetzung, um die maschinelle Übersetzung anzuzeigen.",
+    "first.label": "Erstes echtes Testetikett",
+    "test.file1": "",
+    "test.file2": "",
+    "langfile.first": "",
+    "langfile.second": "",
+    "langfile.web": ""
+}
