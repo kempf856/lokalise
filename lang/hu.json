@@ -1,3 +1,21 @@
 {
+    "appstore.app.description": "",
+    "index.untranslated_yet": "",
+    "index.placeholder": "",
+    "appstore.app.title": "",
+    "index.blabla": "",
+    "main.cool": "Ez a karakterlánc az iOS-hez tartozik, ám más platformokat egyetlen kattintással is összekapcsolhat!",
+    "app.login.pass": "Jelszó",
+    "app.users.active": {
+        "one": "Csak egy felhasználó van online",
+        "other": "%d felhasználó van online"
+    },
+    "main.country": "Válassz országot",
+    "index.welcome": "Üdvözöljük a <strong> Lokalise <\/strong> webhelyen! \nPróbáljon rákattintani bármelyik <i> Empty <\/i> fordításra a gépi fordítás megjelenítéséhez.",
+    "first.label": "Első valódi teszt címke",
+    "test.file1": "fájlból első",
+    "test.file2": "fájlból második",
+    "langfile.first": "nyelvfájl első",
+    "langfile.second": "nyelvfájl második",
     "langfile.web": "nyelvfájl weben és jó hosszan"
 }
