@@ -1,9 +1,6 @@
 {
-    "appstore.app.description": "",
-    "index.untranslated_yet": "",
-    "index.placeholder": "",
+    "index.placeholder": "Das Bearbeitungswerkzeug prüft den gesamten gespeicherten Text. Versuchen Sie, diesen Text ohne %s und Sie werden sehen.",
     "appstore.app.title": "Lokalise",
-    "index.blabla": "",
     "main.cool": "",
     "app.login.pass": "Passwort",
     "app.users.active": {
@@ -15,9 +12,6 @@
     "first.label": "Erstes echtes Testetikett",
     "test.file1": "",
     "test.file2": "",
-    "langfile.first": "",
-    "langfile.second": "",
     "langfile.web": "",
-    "langfile.new": "",
     "label.predemo": "Testversion vor der Demo"
 }

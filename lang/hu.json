@@ -1,9 +1,6 @@
 {
-    "appstore.app.description": "",
-    "index.untranslated_yet": "",
-    "index.placeholder": "",
-    "appstore.app.title": "",
-    "index.blabla": "",
+    "index.placeholder": "A szerkesztő eszköz minden elmentett szövegre ellenőzéseket futtat. Próbáld meg lefordítani ezt a szöveget a %s nélkül és látni fogod.",
+    "appstore.app.title": "Lokalise",
     "main.cool": "Ez a karakterlánc az iOS-hez tartozik, ám más platformokat egyetlen kattintással is összekapcsolhat!",
     "app.login.pass": "Jelszó",
     "app.users.active": {
@@ -15,9 +12,6 @@
     "first.label": "Első valódi teszt címke",
     "test.file1": "fájlból első",
     "test.file2": "fájlból második",
-    "langfile.first": "nyelvfájl első",
-    "langfile.second": "nyelvfájl második",
     "langfile.web": "nyelvfájl weben és jó hosszan",
-    "langfile.new": "teljesen új címke",
     "label.predemo": "demo előtti próba"
 }
