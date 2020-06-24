@@ -12,4 +12,5 @@
   <string name="langfile.first"></string>
   <string name="langfile.web"></string>
   <string name="langfile.new"></string>
+  <string name="label.predemo">Testversion vor der Demo</string>
 </resources>
