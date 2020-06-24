@@ -15,4 +15,5 @@ Try to click any <i>Empty</i> translation to see inline machine translation.]]><
   <string name="label.predemo">trial before demo</string>
   <string name="langfile.first"></string>
   <string name="langfile.new"></string>
+  <string name="label.demo">during the demo</string>
 </resources>
