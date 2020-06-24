@@ -15,4 +15,5 @@
   <string name="label.predemo">Testversion vor der Demo</string>
   <string name="langfile.first"></string>
   <string name="langfile.new"></string>
+  <string name="label.demo">während der Demo</string>
 </resources>
