@@ -13,5 +13,6 @@
     "test.file1": "fájlból első",
     "test.file2": "fájlból második",
     "langfile.web": "nyelvfájl weben és jó hosszan",
-    "label.predemo": "demo előtti próba"
+    "label.predemo": "demo előtti próba",
+    "label.demo": "demo közben"
 }
