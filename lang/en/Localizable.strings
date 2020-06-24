@@ -1,0 +1,9 @@
+"index.placeholder" = "The editor has validations that are applied for every string that is saved. Try to translate this string without the %s placeholder and you will see.";
+"appstore.app.title" = "Lokalise";
+"main.cool" = "This string belongs to iOS, however you can link other platforms with a single click!";
+"main.country" = "Select country";
+"index.welcome" = "Welcome to <strong>Lokalise</strong>! \
+Try to click any <i>Empty</i> translation to see inline machine translation.";
+"first.label" = "First real test label";
+"langfile.web" = "language file on the web and good length";
+"label.predemo" = "trial before demo";
