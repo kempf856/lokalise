@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+  <string name="index.placeholder">The editor has validations that are applied for every string that is saved. Try to translate this string without the %s placeholder and you will see.</string>
+  <string name="appstore.app.title">Lokalise</string>
   <string name="main.cool">This string belongs to iOS, however you can link other platforms with a single click!</string>
   <plurals name="app.users.active">
     <item quantity="one">Just one user online</item>
@@ -9,8 +11,8 @@
   <string name="index.welcome"><![CDATA[Welcome to <strong>Lokalise</strong>! 
 Try to click any <i>Empty</i> translation to see inline machine translation.]]></string>
   <string name="first.label">First real test label</string>
-  <string name="langfile.first"></string>
   <string name="langfile.web">language file on the web and good length</string>
-  <string name="langfile.new">brand new label</string>
   <string name="label.predemo">trial before demo</string>
+  <string name="langfile.first"></string>
+  <string name="langfile.new"></string>
 </resources>

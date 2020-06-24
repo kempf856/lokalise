@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+  <string name="index.placeholder">A szerkesztő eszköz minden elmentett szövegre ellenőzéseket futtat. Próbáld meg lefordítani ezt a szöveget a %s nélkül és látni fogod.</string>
+  <string name="appstore.app.title">Lokalise</string>
   <string name="main.cool">Ez a karakterlánc az iOS-hez tartozik, ám más platformokat egyetlen kattintással is összekapcsolhat!</string>
   <plurals name="app.users.active">
     <item quantity="one">Csak egy felhasználó van online</item>
@@ -9,8 +11,8 @@
   <string name="index.welcome"><![CDATA[Üdvözöljük a <strong> Lokalise </strong> webhelyen! 
 Próbáljon rákattintani bármelyik <i> Empty </i> fordításra a gépi fordítás megjelenítéséhez.]]></string>
   <string name="first.label">Első valódi teszt címke</string>
-  <string name="langfile.first">nyelvfájl első</string>
   <string name="langfile.web">nyelvfájl weben és jó hosszan</string>
-  <string name="langfile.new">teljesen új címke</string>
   <string name="label.predemo">demo előtti próba</string>
+  <string name="langfile.first">nyelvfájl első</string>
+  <string name="langfile.new">teljesen új címke</string>
 </resources>
