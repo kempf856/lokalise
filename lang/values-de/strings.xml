@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+  <string name="index.placeholder">Das Bearbeitungswerkzeug prüft den gesamten gespeicherten Text. Versuchen Sie, diesen Text ohne %s und Sie werden sehen.</string>
+  <string name="appstore.app.title">Lokalise</string>
   <string name="main.cool"></string>
   <plurals name="app.users.active">
     <item quantity="one"></item>
@@ -9,8 +11,8 @@
   <string name="index.welcome"><![CDATA[Willkommen bei <strong> Lokalise </strong> ! 
  Klicken Sie auf eine beliebige <i> Empty </i> Übersetzung, um die maschinelle Übersetzung anzuzeigen.]]></string>
   <string name="first.label">Erstes echtes Testetikett</string>
-  <string name="langfile.first"></string>
   <string name="langfile.web"></string>
-  <string name="langfile.new"></string>
   <string name="label.predemo">Testversion vor der Demo</string>
+  <string name="langfile.first"></string>
+  <string name="langfile.new"></string>
 </resources>
