@@ -18,5 +18,6 @@
     "langfile.first": "",
     "langfile.second": "",
     "langfile.web": "language file on the web and good length",
-    "langfile.new": "brand new label"
+    "langfile.new": "brand new label",
+    "label.predemo": "trial before demo"
 }
