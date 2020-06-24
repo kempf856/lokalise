@@ -12,4 +12,5 @@ Try to click any <i>Empty</i> translation to see inline machine translation.]]><
   <string name="langfile.first"></string>
   <string name="langfile.web">language file on the web and good length</string>
   <string name="langfile.new">brand new label</string>
+  <string name="label.predemo">trial before demo</string>
 </resources>
