@@ -12,4 +12,5 @@ Próbáljon rákattintani bármelyik <i> Empty </i> fordításra a gépi fordít
   <string name="langfile.first">nyelvfájl első</string>
   <string name="langfile.web">nyelvfájl weben és jó hosszan</string>
   <string name="langfile.new">teljesen új címke</string>
+  <string name="label.predemo">demo előtti próba</string>
 </resources>
