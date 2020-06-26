@@ -14,5 +14,6 @@
     "test.file2": "",
     "langfile.web": "",
     "label.predemo": "Testversion vor der Demo",
-    "label.demo": "während der Demo"
+    "label.demo": "während der Demo",
+    "test.linebreak": "längerer Text \nmehrere Zeilen \ngebrochen \nmit dem \"Sonderzeichen\""
 }
