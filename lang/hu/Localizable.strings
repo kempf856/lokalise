@@ -7,3 +7,8 @@ Próbáljon rákattintani bármelyik <i> Empty </i> fordításra a gépi fordít
 "first.label" = "Első valódi teszt címke";
 "langfile.web" = "nyelvfájl weben és jó hosszan";
 "label.predemo" = "demo előtti próba";
+"label.demo" = "demo közben";
+"test.linebreak" = "hosszabb szöveg\
+több sorba\
+törve\
+'speciális' karakterrel";
