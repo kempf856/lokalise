@@ -16,4 +16,8 @@ Próbáljon rákattintani bármelyik <i> Empty </i> fordításra a gépi fordít
   <string name="langfile.first">nyelvfájl első</string>
   <string name="langfile.new">teljesen új címke</string>
   <string name="label.demo">demo közben</string>
+  <string name="test.linebreak">hosszabb szöveg
+több sorba
+törve
+\'speciális\' karakterrel</string>
 </resources>

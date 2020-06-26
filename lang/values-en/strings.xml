@@ -16,4 +16,8 @@ Try to click any <i>Empty</i> translation to see inline machine translation.]]><
   <string name="langfile.first"></string>
   <string name="langfile.new"></string>
   <string name="label.demo">during the demo</string>
+  <string name="test.linebreak">longer text 
+several lines 
+broken 
+with the \'special\' character</string>
 </resources>
