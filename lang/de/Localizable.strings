@@ -7,3 +7,8 @@
 "first.label" = "Erstes echtes Testetikett";
 "langfile.web" = "";
 "label.predemo" = "Testversion vor der Demo";
+"label.demo" = "während der Demo";
+"test.linebreak" = "längerer Text \
+mehrere Zeilen \
+gebrochen \
+mit dem \"Sonderzeichen\"";
