@@ -14,5 +14,6 @@
     "test.file2": "second from file",
     "langfile.web": "language file on the web and good length",
     "label.predemo": "trial before demo",
-    "label.demo": "during the demo"
+    "label.demo": "during the demo",
+    "test.linebreak": "longer text \nseveral lines \nbroken \nwith the 'special' character"
 }
