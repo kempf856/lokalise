@@ -7,3 +7,8 @@ Try to click any <i>Empty</i> translation to see inline machine translation.";
 "first.label" = "First real test label";
 "langfile.web" = "language file on the web and good length";
 "label.predemo" = "trial before demo";
+"label.demo" = "during the demo";
+"test.linebreak" = "longer text \
+several lines \
+broken \
+with the 'special' character";
