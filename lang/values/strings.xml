@@ -8,16 +8,12 @@
     <item quantity="other">%d felhasználó van online</item>
   </plurals>
   <string name="main.country">Válassz országot</string>
-  <string name="index.welcome"><![CDATA[Üdvözöljük a <strong> Lokalise </strong> webhelyen! 
-Próbáljon rákattintani bármelyik <i> Empty </i> fordításra a gépi fordítás megjelenítéséhez.]]></string>
+  <string name="index.welcome"><![CDATA[Üdvözöljük a <strong> Lokalise </strong> webhelyen! \nPróbáljon rákattintani bármelyik <i> Empty </i> fordításra a gépi fordítás megjelenítéséhez.]]></string>
   <string name="first.label">Első valódi teszt címke</string>
   <string name="langfile.web">nyelvfájl weben és jó hosszan</string>
   <string name="label.predemo">demo előtti próba</string>
   <string name="langfile.first">nyelvfájl első</string>
   <string name="langfile.new">teljesen új címke</string>
   <string name="label.demo">demo közben</string>
-  <string name="test.linebreak">hosszabb szöveg
-több sorba
-törve
-\'speciális\' karakterrel</string>
+  <string name="test.linebreak">hosszabb szöveg\ntöbb sorba\ntörve\n\'speciális\' karakterrel</string>
 </resources>
